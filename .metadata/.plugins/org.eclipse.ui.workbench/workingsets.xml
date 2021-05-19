@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621402805112_1" label="[MEGA_ESB_NB_Message2LIB]" name="[MEGA_ESB_NB_Message2LIB]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MEGA_ESB_NB_Message2LIB" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MEGA_ESB_NB_Message2" type="4"/>
+</workingSet>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621402805112_2" label="[MEGA_ESB_NB_MessageLIB]" name="[MEGA_ESB_NB_MessageLIB]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MEGA_ESB_NB_Message" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MEGA_ESB_NB_MessageLIB" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621402359836_0" label="Window Working Set" name="Aggregate for window 1621402359836"/>
 </workingSetManager>
