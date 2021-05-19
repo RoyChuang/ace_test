@@ -1,0 +1,40 @@
+!SESSION 2021-05-19 13:32:23.054 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.16 - pwa6480sr6fp16-20200902_01(SR6 FP16)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200901_454898 (JIT enabled, AOT enabled)
+OpenJ9   - 2799ddf
+OMR      - b348d97
+IBM      - 5371022
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2021-05-19 13:32:35.747
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY org.eclipse.ui 2 2 2021-05-19 13:32:37.567
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.adapter.c, page: com.ibm.adapter.c.ui.preferencepage.CPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2021-05-19 13:32:37.567
+!MESSAGE Invalid preference category path: com.ibm.debug.breakpoints.common.pref.tracepoint (bundle: com.ibm.debug.wsa, page: com.ibm.debug.wsa.WSATracepointPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2021-05-19 13:32:37.567
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.etools.cobol.preference.ui, page: com.ibm.etools.cobol.preference.ui.preferencepage.CobolPreferencePage)
+
+!ENTRY com.ibm.mq.runtime 1 0 2021-05-19 13:32:40.163
+!MESSAGE 
+
+!ENTRY com.ibm.mq.runtime 1 0 2021-05-19 13:32:40.163
+!MESSAGE C:\Program Files\IBM\ACE\11.0.0.11\tools>mqsifindmqpath
+
+!ENTRY com.ibm.etools.mft.pattern.community 4 0 2021-05-19 13:32:40.572
+!MESSAGE Connection to the URL https://ot4i.github.io/ace-patterns/zh/repo_metadata.json failed. Response code: 404
+
+!ENTRY com.ibm.mq.runtime 1 0 2021-05-19 13:32:40.593
+!MESSAGE BIP8071I: 已順利完成指令。 C:\Program Files\IBM\MQ
+
+!ENTRY com.ibm.mq.runtime 1 0 2021-05-19 13:32:40.593
+!MESSAGE MQ Install location found:C:/Program Files/IBM/MQ
+
+!ENTRY com.ibm.mq.runtime 1 0 2021-05-19 13:32:40.593
+!MESSAGE 
